@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asyn_Sync", "Asyn_Sync.csproj", "{83A81718-7D0A-4215-A142-B1B04DC82441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A81718-7D0A-4215-A142-B1B04DC82441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A81718-7D0A-4215-A142-B1B04DC82441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A81718-7D0A-4215-A142-B1B04DC82441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A81718-7D0A-4215-A142-B1B04DC82441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8670E29D-6B3C-4186-A48F-2F1ED8746CEC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\Practice\Windows\First_Project\bin\Debug\First_Project.exe.config
+D:\Practice\Windows\First_Project\bin\Debug\First_Project.exe
+D:\Practice\Windows\First_Project\bin\Debug\First_Project.pdb
+D:\Practice\Windows\First_Project\obj\Debug\First_Project.csproj.AssemblyReference.cache
+D:\Practice\Windows\First_Project\obj\Debug\First_Project.csproj.SuggestedBindingRedirects.cache
+D:\Practice\Windows\First_Project\obj\Debug\First_Project.csproj.CoreCompileInputs.cache
+D:\Practice\Windows\First_Project\obj\Debug\First_Project.exe
+D:\Practice\Windows\First_Project\obj\Debug\First_Project.pdb
