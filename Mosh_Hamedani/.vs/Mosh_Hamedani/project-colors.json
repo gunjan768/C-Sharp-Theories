@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b7bb3b75-c393-4dce-abb7-b888fee9b8f3": {
+      "ProjectGuid": "b7bb3b75-c393-4dce-abb7-b888fee9b8f3",
+      "DisplayName": "Mosh_Hamedani",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d04548f2-14ef-4bf0-915d-a5d2e33ed53e": {
+      "ProjectGuid": "d04548f2-14ef-4bf0-915d-a5d2e33ed53e",
+      "DisplayName": "Amazon",
+      "ColorIndex": 1
+    },
+    "dae33f94-f87b-4ba5-8112-3c13e60e7603": {
+      "ProjectGuid": "dae33f94-f87b-4ba5-8112-3c13e60e7603",
+      "DisplayName": "Amazon",
+      "ColorIndex": 2
+    },
+    "e94a8ec1-2ccc-4aa1-bd42-a2dfc60e067a": {
+      "ProjectGuid": "e94a8ec1-2ccc-4aa1-bd42-a2dfc60e067a",
+      "DisplayName": "Mosh_Hamedani.Tests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

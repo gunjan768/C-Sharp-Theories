@@ -1,0 +1,11 @@
+D:\Practice\Windows\Mosh_Hamedani\bin\Debug\Mosh_Hamedani.exe.config
+D:\Practice\Windows\Mosh_Hamedani\bin\Debug\Mosh_Hamedani.exe
+D:\Practice\Windows\Mosh_Hamedani\bin\Debug\Mosh_Hamedani.pdb
+D:\Practice\Windows\Mosh_Hamedani\obj\Debug\Mosh_Hamedani.csproj.AssemblyReference.cache
+D:\Practice\Windows\Mosh_Hamedani\obj\Debug\Mosh_Hamedani.csproj.SuggestedBindingRedirects.cache
+D:\Practice\Windows\Mosh_Hamedani\obj\Debug\Mosh_Hamedani.csproj.CoreCompileInputs.cache
+D:\Practice\Windows\Mosh_Hamedani\obj\Debug\Mosh_Hamedani.exe
+D:\Practice\Windows\Mosh_Hamedani\obj\Debug\Mosh_Hamedani.pdb
+D:\Practice\Windows\Mosh_Hamedani\bin\Debug\Amazon.dll
+D:\Practice\Windows\Mosh_Hamedani\bin\Debug\Amazon.pdb
+D:\Practice\Windows\Mosh_Hamedani\obj\Debug\Mosh_Hamedani.csproj.CopyComplete

@@ -1,0 +1,6 @@
+D:\Practice\Windows\Amazon\bin\Debug\Amazon.dll
+D:\Practice\Windows\Amazon\bin\Debug\Amazon.pdb
+D:\Practice\Windows\Amazon\obj\Debug\Amazon.csproj.AssemblyReference.cache
+D:\Practice\Windows\Amazon\obj\Debug\Amazon.csproj.CoreCompileInputs.cache
+D:\Practice\Windows\Amazon\obj\Debug\Amazon.dll
+D:\Practice\Windows\Amazon\obj\Debug\Amazon.pdb

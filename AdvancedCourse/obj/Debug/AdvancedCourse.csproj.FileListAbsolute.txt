@@ -1,0 +1,8 @@
+D:\Practice\Windows\AdvancedCourse\bin\Debug\AdvancedCourse.exe.config
+D:\Practice\Windows\AdvancedCourse\bin\Debug\AdvancedCourse.exe
+D:\Practice\Windows\AdvancedCourse\bin\Debug\AdvancedCourse.pdb
+D:\Practice\Windows\AdvancedCourse\obj\Debug\AdvancedCourse.csproj.AssemblyReference.cache
+D:\Practice\Windows\AdvancedCourse\obj\Debug\AdvancedCourse.csproj.SuggestedBindingRedirects.cache
+D:\Practice\Windows\AdvancedCourse\obj\Debug\AdvancedCourse.csproj.CoreCompileInputs.cache
+D:\Practice\Windows\AdvancedCourse\obj\Debug\AdvancedCourse.exe
+D:\Practice\Windows\AdvancedCourse\obj\Debug\AdvancedCourse.pdb
