@@ -82,6 +82,10 @@ namespace Mosh_Hamedani
 
             // 4) ................ Out Modifier.
             OutModifier();
+            
+            // In C#, objects are reference types, but by default they are passed by value just like value types. In the case of a reference type,
+            // the "value" that is being copied as a pass-by-value method parameter is the reference itself, so changes to properties inside a method
+            // will be reflected outside the method scope.
         }
 
         public static void testDateTime()
